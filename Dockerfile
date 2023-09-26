@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:22.04
 
 # Define the version of Python to install
 # "3.11" will the latest, like 3.11.1, 3.11.2, etc
